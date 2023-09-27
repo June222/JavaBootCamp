@@ -63,6 +63,8 @@
 
 ![3-way-handshake](https://drive.google.com/file/d/13InnmfK9vvGTaDA_WhMHXkkZqXlHJ5yG/view?usp=drive_link)
 
+![3handshake.jpeg](..%2F..%2Fdownloads%2F3handshake.jpeg)
+
 TCP 3-way-handshake를 사용하여 송신됐는지 확인되지 않을 경우 데이터를 재전송함.
 
 데이터를 한 번에 전송하지 않고 나누어 전송함.
